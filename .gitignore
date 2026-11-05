@@ -1,0 +1,6 @@
+out/
+*.class
+ticket_data_out.csv
+.idea/
+*.iml
+.DS_Store
